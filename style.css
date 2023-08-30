@@ -1,0 +1,84 @@
+body{
+	background-color:powderblue;
+	height:500px;
+	
+}
+h1{
+	text-align:center;
+     color:darkblue;
+	
+}
+h2{
+	color:green;
+	
+}
+h3{
+	color:blue;
+	
+}
+p{
+	color:green;
+	font-size:20px;
+	
+}
+
+.Hover1:hover{
+	color:red;
+}
+.Hover2:hover{
+	color:red;
+}
+.Hover3:hover{
+	color:red;
+}
+.Hover4:hover{
+	color:red;
+}
+.Hover5:hover{
+	color:red;
+}
+.Hover6:hover{
+	color:red;
+}
+.Hover7:hover{
+	color:red;
+}
+.Hover8:hover{
+	color:red;
+}
+.Hover9:hover{
+	color:red;
+}
+.Hover10:hover{
+	color:red;
+}
+a{
+	text-decoration:none;
+	padding:8px;
+	float:right;
+}
+a:hover{
+	margin:10px,8px,16px;
+	padding:8px;
+	background-color:blue;
+	color:purple;
+	border-radius:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
